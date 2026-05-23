@@ -1,43 +1,41 @@
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Balaji%20Porala&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+# Hi there 👋, I'm Balaji
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;LLMOps+Developer;RAG+Pipeline+Builder;FastAPI+%7C+LangChain+%7C+Transformers" />
-</p>
+### AI/ML Engineer | LLMOps | RAG Systems | Full-Stack AI Applications
 
-<h1 align="center">Hi 👋, I'm Balaji</h1>
-
-<h3 align="center">AI/ML Engineer | LLMOps | RAG Systems | Full-Stack AI Applications</h3>
-
----
-
-## 🚀 About Me
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 B.Tech CSE Student at RK Valley
-- 🤖 Passionate about AI/ML and Generative AI
+- 🤖 Passionate about AI/ML, LLMOps, and Generative AI
 - 🧠 Building RAG pipelines, AI agents, and real-time AI systems
 - ⚡ Skilled in FastAPI, LangChain, LangGraph, Docker, and HuggingFace
 - 🚀 Focused on deployable AI products and scalable backend systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,mysql" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+---
 
 ### AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
 
 ### Frameworks & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,docker,github,git,vscode" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
@@ -97,33 +95,19 @@
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balaji-731&show_icons=true&theme=tokyonight" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-731&layout=compact&theme=tokyonight" height="170"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Balaji-731&show_icons=true&theme=tokyonight)
 
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji-731&layout=compact&theme=tokyonight)
 
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-731&theme=tokyonight" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Balaji-731&theme=tokyonight)
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/Balaji-731" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balaji-731)
 
-<a href="YOUR_LINKEDIN_LINK" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
 
 📧 poralabalaji@gmail.com
 
@@ -131,11 +115,4 @@
 
 # ✨ Quote
 
-<p align="center">
-  <i>"Building AI systems that solve real-world problems."</i>
-</p>
-
----
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+> "Building AI systems that solve real-world problems."
